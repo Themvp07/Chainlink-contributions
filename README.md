@@ -144,3 +144,19 @@ Specialized in Chainlink technologies:
 | Hong Kong (HK)         | 1                        |
 
 > 📊 *Total: More than 30 activities in more than 10 countries since 2022.*
+>
+> ## 👥 People Who Can Endorse My Work
+
+These are some of the people who have directly witnessed my technical contribution, active participation, and leadership in events, workshops, and communities within the blockchain ecosystem. They can serve as a point of contact to validate my experience:
+
+### 🧑‍🏫 Mentors, organizers, and key collaborators
+
+- **Joy Pokkamol**  
+  🎤 Rol: Growing the Blockchain Ecosystem  
+  🔗 [LinkedIn](https://www.linkedin.com/in/joypokkamol/ ) 
+
+- **Gilberts Ahumada Cabrera**  
+  🎤 Rol: Chainlink Developer Expert  
+  🔗 [LinkedIn](https://www.linkedin.com/in/gilberts-ahumada-cabrera-89214086/) 
+
+
