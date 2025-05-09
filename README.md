@@ -25,7 +25,7 @@ This repository showcases my experience, contributions, and active participation
 
 ### 📆 2024
 
-- **Manager and Mentor - Hackathon ConnETH Latam** – December *(Peru, Colombia, Mexico, Bolivia)*  
+- **Manager and Mentor - ConnETH Latam** – December *(Peru, Colombia, Mexico, Bolivia)*  
   [View on X](https://x.com/space4build/status/1877411965972172855?s=46&t=xZwu9y0l8ACyMwWB7pH3Rg )
 
 - **Hacker - Devcon 7 Hackathon** – November *(Bangkok & Thailand)*  
