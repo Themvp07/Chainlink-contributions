@@ -125,9 +125,9 @@ Specialized in Chainlink technologies:
 
 ---
 
-## 🌍 Distribución de Mis Actividades por País
+## 🌍 Distribution of my activites by country
 
-| 🌎 País / Región       | 🔢 Total de Actividades |
+| 🌎 Contry       | 🔢 Number of activities |
 |------------------------|--------------------------|
 | Peru (Per)             | 10                       |
 | Colombia (Col)         | 5                        |
@@ -143,4 +143,4 @@ Specialized in Chainlink technologies:
 | Venezuela (Ven)        | 1                        |
 | Hong Kong (HK)         | 1                        |
 
-> 📊 *Total: Más de 30 actividades en más de 10 países desde 2022.*
+> 📊 *Total: More than 30 activities in more than 10 countries since 2022.*
