@@ -157,6 +157,14 @@ These are some of the people who have directly witnessed my technical contributi
 
 - **Gilberts Ahumada Cabrera**  
   🎤 Role: Chainlink Developer Expert  
-  🔗 [LinkedIn](https://www.linkedin.com/in/gilberts-ahumada-cabrera-89214086/) 
+  🔗 [LinkedIn](https://www.linkedin.com/in/gilberts-ahumada-cabrera-89214086/)
+
+- **Solange Gueiros**  
+  🎤 Role: Blockchain Developer Relations Engineer  
+  🔗 [LinkedIn](https://www.linkedin.com/in/solangegueiros/)
+
+- **Romain Vaucher**  
+  🎤 Role: Partner Marketing Manager  
+  🔗 [LinkedIn](https://www.linkedin.com/in/romainvaucher777/)
 
 
