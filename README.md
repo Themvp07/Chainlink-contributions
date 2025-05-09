@@ -113,7 +113,7 @@ Specialized in Chainlink technologies:
 
 ---
 
-## 📊 Distribution of My DevRel Activities
+## 📊 Distribution of my activities
 
 
 
