@@ -152,11 +152,11 @@ These are some of the people who have directly witnessed my technical contributi
 ### 🧑‍🏫 Mentors, organizers, and key collaborators
 
 - **Joy Pokkamol**  
-  🎤 Rol: Growing the Blockchain Ecosystem  
+  🎤 Role: Growing the Blockchain Ecosystem  
   🔗 [LinkedIn](https://www.linkedin.com/in/joypokkamol/ ) 
 
 - **Gilberts Ahumada Cabrera**  
-  🎤 Rol: Chainlink Developer Expert  
+  🎤 Role: Chainlink Developer Expert  
   🔗 [LinkedIn](https://www.linkedin.com/in/gilberts-ahumada-cabrera-89214086/) 
 
 
