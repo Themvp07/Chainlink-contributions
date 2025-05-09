@@ -134,7 +134,7 @@ Specialized in Chainlink technologies:
 | Latam                  | 4                        |
 | France (Fra)           | 2                        |
 | Bolivia (Bol)          | 2                        |
-| Bélgica (Bel)          | 1                        |
+| Belgium (Bel)          | 1                        |
 | Alemania (Ger)         | 1                        |
 | Tailandia (Tha)        | 1                        |
 | Costa Rica (Cos)       | 1                        |
