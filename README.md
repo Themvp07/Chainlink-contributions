@@ -167,4 +167,10 @@ These are some of the people who have directly witnessed my technical contributi
   🎤 Role: Partner Marketing Manager  
   🔗 [LinkedIn](https://www.linkedin.com/in/romainvaucher777/)
 
+- **Javier Salomón**  
+  🎤 Role: Latam Community Manager  
+  🔗 [LinkedIn](https://www.linkedin.com/in/javier-salomon/)
+
+
+
 
