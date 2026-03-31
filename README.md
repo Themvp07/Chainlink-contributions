@@ -1,6 +1,6 @@
 # 👨‍💻 My Journey in the Chainlink Ecosystem
 
-> _"Passionate about decentralized technology, technical education, and growing the web3 ecosystem."_
+> _"Passionate about decentralized technology, business corporate manager, technical education, and growing the web3 ecosystem."_
 
 This repository showcases my experience, contributions, and active participation in the **Chainlink ecosystem**, focusing on technical development, mentorship, workshops, hackathons, conferneces and community support since 2022 — all backed by verified links to my activities.
 
@@ -8,14 +8,38 @@ This repository showcases my experience, contributions, and active participation
 
 ## 📅 Activity Timeline by Year
 
+### 📆 2026
+
+
+- **Speaker - Business Enterprise Conference** – March *(Venezuela)*  
+  [View on Linkedin](https://www.linkedin.com/posts/sleonlop_compliance-chainlinkruntimeenvironment-automatedcomplianceengine-activity-7444449292645224448-6U6P?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0xDPwBFnUVcHHf2ygMOFaOWt7GpL2ZteM )
+
+- **Hacker - Convergence Hackathon** – February *(Online)*  
+  [View on GitHub](https://github.com/Themvp07/StealthBondLATAM?trk=feed-detail_comments-list_comment-text )
+
+- **Hackathon mentor - Convergence Hackathon** – February *(Online)*  
+  [View on Linkedin](https://www.linkedin.com/posts/mai-thanh-nha_please-contact-us-if-you-need-support-with-activity-7426468172184305664-awFx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0xDPwBFnUVcHHf2ygMOFaOWt7GpL2ZteM )
+
 ---
 
 ### 📆 2025
 
-- **Workshop Speaker** – April *(Medellín & Colombia)*  
+- **Manager and Speaker - Tech Conference** – March *(Venezuela)*  
+  [View on X](https://x.com/space4build/status/1998047183980085704?s=48&t=xZwu9y0l8ACyMwWB7pH3Rg )
+
+- **Hackathon mentor - ETH Global Hackathon** – November *(Argentina)*  
+  [View on Linkedin](https://www.linkedin.com/posts/sleonlop_buenosaires-chainlinkruntimeenvironment-typescript-activity-7416962915255123968-c0wU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB0xDPwBFnUVcHHf2ygMOFaOWt7GpL2ZteM )
+
+- **Technical Support - Chainlink House** – November *(Argentina)*  
+  [View on X](https://x.com/space4build/status/1991170653903606270?s=48&t=xZwu9y0l8ACyMwWB7pH3Rg )
+
+- **Hackathon mentor - ETH Latam** – November *(Brazil)*  
+  [View on X](https://x.com/simonxpe/status/1988279676104830994?s=48&t=xZwu9y0l8ACyMwWB7pH3Rg )
+
+- **Workshop Speaker - Medellin Blockchain Week** – April *(Medellín & Colombia)*  
   [View on X](https://x.com/space4build/status/1910555307119362508?s=46&t=xZwu9y0l8ACyMwWB7pH3Rg )
 
-- **Workshop Speaker** – February *(Arequipa & Peru)*  
+- **Workshop Speaker - Arequipa Blockchain Week** – February *(Arequipa & Peru)*  
   [View on X](https://x.com/space4build/status/1892764779833401516?s=46&t=xZwu9y0l8ACyMwWB7pH3Rg )
 
 - **Meetup Speaker** – February *(Arequipa & Peru)*  
@@ -43,7 +67,7 @@ This repository showcases my experience, contributions, and active participation
 - **Hackathon Mentor** – October *(San Jose / Costa Rica)*  
   [Watch video](https://youtu.be/Fh7tGGg7Nnk?si=1JtjQZQCbfzbBU50 )
 
-- **Voluntary Support - Meetup** – August *(Berlin & Germany)*  
+- **Technical Voluntary Support - Meetup** – August *(Berlin & Germany)*  
 [View on Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7232266917837729792/ )
 
 - **Technical Voluntary Support - Chainlink Developer Day** – July *(Brussels,  Belgium)*  
@@ -107,7 +131,7 @@ This repository showcases my experience, contributions, and active participation
 📅 **Since June 2023**
 
 Specialized in Chainlink technologies:
-- Advanced integrations (VRF, Automations, CCIP)
+- Advanced integrations (VRF, Automations, CCIP, CRE, ACE)
 - Oracle solutions for DeFi, NFTs, and decentralized apps
 - Technical support at workshops, hackathons, and local communities
 
@@ -117,11 +141,11 @@ Specialized in Chainlink technologies:
 
 
 
-- **Workshops & Talks**: 15
-- **Hackathon Mentorship**: 7
-- **Technical Support**: 5
-- **Community Management**: 6
-- **Hacking**: 3
+- **Workshops & Talks**: 17
+- **Hackathon Mentorship**: 6
+- **Technical Support**: 6
+- **Community Management**: 5
+- **Hacking**: 4
 
 ---
 
@@ -132,20 +156,23 @@ Specialized in Chainlink technologies:
 | Peru (Per)             | 10                       |
 | Colombia (Col)         | 5                        |
 | Latam                  | 4                        |
+| Venezuela (Ven)        | 3                        |
 | France (Fra)           | 2                        |
 | Bolivia (Bol)          | 2                        |
+| Argentina (AR)         | 2                        |
 | Belgium (Bel)          | 1                        |
 | Alemania (Ger)         | 1                        |
 | Tailandia (Tha)        | 1                        |
 | Costa Rica (Cos)       | 1                        |
 | Spain (Spa)            | 1                        |
 | Mexico (Mex)           | 1                        |
-| Venezuela (Ven)        | 1                        |
 | Hong Kong (HK)         | 1                        |
+| Brazil (BR)            | 1                        |
 
-> 📊 *Total: More than 30 activities in more than 10 countries since 2022.*
+
+> 📊 *Total: More than 30 activities in 14 countries since 2022.*
 >
-> ## 👥 People Who Can Endorse My Work
+> ## 👥 People Who Can Confirm My Effort
 
 These are some of the people who have directly witnessed my technical contribution, active participation, and leadership in events, workshops, and communities within the blockchain ecosystem. They can serve as a point of contact to validate my experience:
 
@@ -170,6 +197,15 @@ These are some of the people who have directly witnessed my technical contributi
 - **Javier Salomón**  
   🎤 Role: Latam Community Manager  
   🔗 [LinkedIn](https://www.linkedin.com/in/javier-salomon/)
+
+- **Harry Papacharissiou**  
+  🎤 Role: Head of Developer Relations
+  🔗 [LinkedIn](https://www.linkedin.com/in/harry-papacharissiou/)
+
+- **Nicky Kang**  
+  🎤 Role: Developer Marketing
+  🔗 [LinkedIn](https://www.linkedin.com/in/nicky-kang-7585279o/)
+  
 
 
 
