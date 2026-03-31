@@ -199,12 +199,14 @@ These are some of the people who have directly witnessed my technical contributi
   🔗 [LinkedIn](https://www.linkedin.com/in/javier-salomon/)
 
 - **Harry Papacharissiou**  
-  🎤 Role: Head of Developer Relations
-  🔗 [LinkedIn](https://www.linkedin.com/in/harry-papacharissiou/)
+  🎤 Role: Head of Developer Relations  
+  🔗 [LinkedIn](https://www.linkedin.com/in/harry-papacharissiou/ ) 
 
 - **Nicky Kang**  
-  🎤 Role: Developer Marketing
+  🎤 Role: Developer Marketing  
   🔗 [LinkedIn](https://www.linkedin.com/in/nicky-kang-7585279o/)
+
+
   
 
 
